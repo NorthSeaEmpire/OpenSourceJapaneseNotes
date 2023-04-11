@@ -65,15 +65,27 @@ doyobi- saturday<br>
 nichiyobi- sunday<br>
 <br>
 Months:<br>
-ichigatsu<br>
-nigatsu<br>
-sangatsu<br>
-sigatsu<br>
-gogatsu<br>
-rokugatsu<br>
-sichigatsu<br>
-hachigatsu<br>
-kugatsu<br>
-jugatsu<br>
-juichugast<br>
-junjigatsu<br>
+ichigatsu- January<br> 
+nigatsu- Febuary<br>
+sangatsu- March<br>
+sigatsu- April<br>
+gogatsu- May<br>
+rokugatsu- June<br>
+sichigatsu- July<br>
+hachigatsu- August<br>
+kugatsu- September<br>
+jugatsu- October<br>
+juichugast- November<br>
+junjigatsu- December<br>
+Days: <br>
+From 11 and up, most follow this formula: <br>
+-   [number in japanese] + [nichi]
+-   11 is juuichi + nichi = juuichi ichi
+-   12 is juuni + nichi = juuni nichi
+-   25 is nijuugo + nichi = nijuugo nichi
+<br>
+The only ones that don’t follow the formula and need memorization are:<br>
+
+-   14 – juuyokka
+-   20 – hatsuka
+-   24 – nijuuyokka
