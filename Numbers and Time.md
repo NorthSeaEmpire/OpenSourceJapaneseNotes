@@ -1,8 +1,7 @@
 Numbers
 ------
 The numbers:
-0- zeru
-
+0- zeru \n 
 1- ichi
 2-ni
 3-san
