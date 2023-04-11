@@ -1,5 +1,6 @@
 Numbers
-------
+------ 
+<br>
 The numbers:<br>
 0- zeru <br>
 1- ichi<br>
@@ -24,18 +25,25 @@ The numbers:<br>
 <br>
 Time
 ---
+<br>
+
 Time is split up into "fun" and "pun" for minutes and use Ji for hour<br>
 
 Time:<br>
+
+
 Ji- hour (o clock in English)<br>
 
 Fun:<br>
+
 05 gofun<br> 
 02 nifun<br>
 07 nanafun<br>
 09 kufun<br>
 
 Pun:<br>
+
+
 01 ippun<br>
 03 sanfun<br>
 04 yofun<br>
@@ -46,6 +54,8 @@ Days, Months, Years
 ----
 
 Days:<br>
+
+
 Getsuyobi- monday<br>
 Kayobi- tuesday<br>
 Suiyobi- wednesday<br>
