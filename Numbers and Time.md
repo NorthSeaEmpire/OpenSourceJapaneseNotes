@@ -2,6 +2,7 @@ Numbers
 ------
 The numbers:
 0- zeru
+
 1- ichi
 2-ni
 3-san
