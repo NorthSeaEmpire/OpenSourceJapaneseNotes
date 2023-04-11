@@ -22,10 +22,8 @@ The numbers:<br>
 80-hachiju<br>
 90-kyuju<br>
 100- kyaku<br>
-<br>
-.
+
 add "sai" to the end of the number to say X years old
-<br>
 <br>
 Time
 ---
