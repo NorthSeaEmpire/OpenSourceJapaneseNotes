@@ -23,7 +23,6 @@ The numbers:<br>
 90-kyuju<br>
 100- kyaku<br>
 
-add "sai" to the end of the number to say X years old
 <br>
 Time
 ---
@@ -95,3 +94,5 @@ The only ones that don’t follow the formula and need memorization are:<br>
 -   14 – juuyokka
 -   20 – hatsuka
 -   24 – nijuuyokka
+
+add "sai" to the end of a number to say you are X years old
