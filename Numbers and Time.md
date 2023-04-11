@@ -22,9 +22,11 @@ The numbers:<br>
 80  - hachijyuu     - 八十<br>
 90  - kyujyuu       - 九十<br>
 100 - hyaku         - 百<br>
+add "sai" to the end of a number to say you are X years old
+
 <br>
 Time
----
+----
 <br>
 
 Time is split up into "fun" and "pun" for minutes and use Ji for hour<br>
@@ -94,3 +96,5 @@ The only ones that don’t follow the formula and need memorization are:<br>
 -   14 – juuyokka
 -   20 – hatsuka
 -   24 – nijuuyokka
+
+add "sai" to the end of a number to say you are X years old
