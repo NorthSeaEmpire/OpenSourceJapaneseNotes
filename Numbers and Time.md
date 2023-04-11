@@ -22,10 +22,10 @@ The numbers:<br>
 80-hachiju<br>
 90-kyuju<br>
 100- kyaku<br>
-
+add "sai" to the end of a number to say you are X years old
 <br>
 Time
----
+----
 <br>
 
 Time is split up into "fun" and "pun" for minutes and use Ji for hour<br>
