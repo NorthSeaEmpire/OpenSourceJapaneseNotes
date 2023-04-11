@@ -41,9 +41,7 @@ Fun:<br>
 07 nanafun<br>
 09 kufun<br>
 
-Pun:<br>
-
-
+Pun <br>
 01 ippun<br>
 03 sanfun<br>
 04 yofun<br>
