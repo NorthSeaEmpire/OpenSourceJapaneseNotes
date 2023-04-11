@@ -1,3 +1,3 @@
-Watashi- I (formal)
-Boku- I (friendly males only)
+Watashi- I (formal)<br>
+Boku- I (friendly males only)<br>
 Ore- I (yakuza male only....do not use)
