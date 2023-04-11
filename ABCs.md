@@ -5,4 +5,4 @@ Hirigana:
 
 Katakana:
 
-![Pasted image 20230411105512.png]
+![Pasted image 20230411105512.png](https://www.marimosou.com/wp-content/uploads/2020/07/katakana02-768x1087.jpg)
