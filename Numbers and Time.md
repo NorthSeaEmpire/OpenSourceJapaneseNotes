@@ -25,9 +25,10 @@ The numbers:<br>
 add "sai" to the end of a number to say you are X years old
 
 <br>
-<br>
 Time
 ----
+<br>
+
 Time is split up into "fun" and "pun" for minutes and use Ji for hour<br>
 
 Time:<br>
