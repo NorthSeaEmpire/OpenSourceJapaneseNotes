@@ -77,7 +77,11 @@ kugatsu- September<br>
 jugatsu- October<br>
 juichugast- November<br>
 junjigatsu- December<br>
+
+
 Days: <br>
+
+
 From 11 and up, most follow this formula: <br>
 -   [number in japanese] + [nichi]
 -   11 is juuichi + nichi = juuichi ichi
