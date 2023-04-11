@@ -1,6 +1,6 @@
 Hirigana:
 
-![Pasted image 20230411105343.png]
+![Pasted image 20230411105343.png]("Pasted image 20230411105343.png")
 
 
 Katakana:
