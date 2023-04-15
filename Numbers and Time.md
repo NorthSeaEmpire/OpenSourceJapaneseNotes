@@ -2,26 +2,26 @@ Numbers
 ------ 
 <br>
 The numbers:<br>
-0- zeru <br>
-1- ichi<br>
-2-ni<br>
-3-san<br>
-4-yon<br>
-5-go<br>
-6-roku<br>
-7-nana<br>
-8-hachi<br>
-9- kyu<br>
-10-jiu<br>
-20-nijiu<br>
-30-sanju<br>
-40-yonju<br>
-50-goju<br>
-60-rokuju<br>
-70- nanaju<br>
-80-hachiju<br>
-90-kyuju<br>
-100- kyaku<br>
+0   - zero / rei    - 零<br>
+1   - ichi          - 一<br>
+2   - ni            - 二<br>
+3   - san           - 三<br>
+4   - yon / shi     - 四<br>
+5   - go            - 五<br>
+6   - roku          - 六<br>
+7   - nana / shichi - 七<br>
+8   - hachi         - 八<br>
+9   - kyuu / ku     - 九<br>
+10  - jyuu          - 十<br>
+20  - nijyuu        - 二十<br>
+30  - sanjyuu       - 三十<br>
+40  - yonjyuu       - 四十<br>
+50  - gojyuu        - 五十<br>
+60  - rokujyuu      - 六十<br>
+70  - nanajyuu      - 七十<br>
+80  - hachijyuu     - 八十<br>
+90  - kyujyuu       - 九十<br>
+100 - hyaku         - 百<br>
 add "sai" to the end of a number to say you are X years old
 
 <br>
@@ -38,17 +38,18 @@ Ji- hour (o clock in English)<br>
 
 Fun:<br>
 
-05 gofun<br> 
 02 nifun<br>
+05 gofun<br> 
 07 nanafun<br>
-09 kufun<br>
+09 kyuufun<br>
 
 Pun: <br>
 01 ippun<br>
 03 sanfun<br>
-04 yofun<br>
+04 yonfun<br>
 06 roppun<br>
 08 happun<br>
+10 jyuuppun / jippun<br>
 <br>
 <br>
 
